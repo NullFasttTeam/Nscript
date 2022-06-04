@@ -1,0 +1,500 @@
+Renamed Types:
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Normals.MenuColorTable -> [NullFasttero.Nscript] . 
+{
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.MenuColorTable::.ctor[2]( [mscorlib]System.Boolean, [System.Drawing]System.Drawing.Color ) skipped:  special name
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.MenuColorTable::get_ToolStripDropDownBackground[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.MenuColorTable::get_MenuBorder[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.MenuColorTable::get_MenuItemBorder[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.MenuColorTable::get_MenuItemSelected[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.MenuColorTable::get_ImageMarginGradientBegin[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.MenuColorTable::get_ImageMarginGradientMiddle[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.MenuColorTable::get_ImageMarginGradientEnd[0]( ) skipped:  external base class or interface
+
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.MenuColorTable::backColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.MenuColorTable::leftColumnColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.MenuColorTable::borderColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.MenuColorTable::menuItemBorderColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.MenuColorTable::menuItemSelectedColor ->  
+
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.MenuColorTable::ToolStripDropDownBackground -> dropped
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.MenuColorTable::MenuBorder -> dropped
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.MenuColorTable::MenuItemBorder -> dropped
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.MenuColorTable::MenuItemSelected -> dropped
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.MenuColorTable::ImageMarginGradientBegin -> dropped
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.MenuColorTable::ImageMarginGradientMiddle -> dropped
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.MenuColorTable::ImageMarginGradientEnd -> dropped
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Normals.MenuRenderer -> [NullFasttero.Nscript] . 
+{
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.MenuRenderer::.ctor[3]( [mscorlib]System.Boolean, [System.Drawing]System.Drawing.Color, [System.Drawing]System.Drawing.Color ) skipped:  special name
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.MenuRenderer::OnRenderItemText[1]( [System.Windows.Forms]System.Windows.Forms.ToolStripItemTextRenderEventArgs ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.MenuRenderer::OnRenderArrow[1]( [System.Windows.Forms]System.Windows.Forms.ToolStripArrowRenderEventArgs ) skipped:  external base class or interface
+
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.MenuRenderer::primaryColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.MenuRenderer::textColor ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.MenuRenderer::arrowThickness ->  
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton -> [NullFasttero.Nscript] . 
+{
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::get_BorderSize[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::set_BorderSize[1]( [mscorlib]System.Int32 ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::get_BorderRadius[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::set_BorderRadius[1]( [mscorlib]System.Int32 ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::get_BorderColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::set_BorderColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::get_BackgroundColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::set_BackgroundColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::get_TextColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::set_TextColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::GetFigurePath[2]( [System.Drawing]System.Drawing.Rectangle, [mscorlib]System.Int32 ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::Container_BackColorChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::Button_Resize[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::.ctor[0]( ) skipped:  special name
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::OnPaint[1]( [System.Windows.Forms]System.Windows.Forms.PaintEventArgs ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NButton::OnHandleCreated[1]( [mscorlib]System.EventArgs ) skipped:  external base class or interface
+
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NButton::borderSize ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NButton::borderRadius ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NButton::borderColor ->  
+
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NButton::BorderSize ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NButton::BorderRadius ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NButton::BorderColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NButton::BackgroundColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NButton::TextColor ->  
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox -> [NullFasttero.Nscript] . 
+{
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::get_BorderSize[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::set_BorderSize[1]( [mscorlib]System.Int32 ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::get_BorderColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::set_BorderColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::get_BorderColor2[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::set_BorderColor2[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::get_BorderLineStyle[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::set_BorderLineStyle[1]( [System.Drawing]System.Drawing.Drawing2D.DashStyle ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::get_BorderCapStyle[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::set_BorderCapStyle[1]( [System.Drawing]System.Drawing.Drawing2D.DashCap ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::get_GradientAngle[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::set_GradientAngle[1]( [mscorlib]System.Single ) ->  
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::OnPaint[1]( [System.Windows.Forms]System.Windows.Forms.PaintEventArgs ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::.ctor[0]( ) skipped:  special name
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NCircularPictureBox::OnResize[1]( [mscorlib]System.EventArgs ) skipped:  external base class or interface
+
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NCircularPictureBox::borderSize ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NCircularPictureBox::borderColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NCircularPictureBox::borderColor2 ->  
+	System.Drawing.Drawing2D.DashStyle [NullFasttero.Nscript]System.Drawing.Drawing2D.DashStyle NullFasttero.Nscript.Normals.NCircularPictureBox::borderLineStyle ->  
+	System.Drawing.Drawing2D.DashCap [NullFasttero.Nscript]System.Drawing.Drawing2D.DashCap NullFasttero.Nscript.Normals.NCircularPictureBox::borderCapStyle ->  
+	System.Single [NullFasttero.Nscript]System.Single NullFasttero.Nscript.Normals.NCircularPictureBox::gradientAngle ->  
+
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NCircularPictureBox::BorderSize ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NCircularPictureBox::BorderColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NCircularPictureBox::BorderColor2 ->  
+	System.Drawing.Drawing2D.DashStyle [NullFasttero.Nscript]System.Drawing.Drawing2D.DashStyle NullFasttero.Nscript.Normals.NCircularPictureBox::BorderLineStyle ->  
+	System.Drawing.Drawing2D.DashCap [NullFasttero.Nscript]System.Drawing.Drawing2D.DashCap NullFasttero.Nscript.Normals.NCircularPictureBox::BorderCapStyle ->  
+	System.Single [NullFasttero.Nscript]System.Single NullFasttero.Nscript.Normals.NCircularPictureBox::GradientAngle ->  
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox -> [NullFasttero.Nscript] . 
+{
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::add_OnSelectedIndexChanged[1]( [mscorlib]System.EventHandler ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::remove_OnSelectedIndexChanged[1]( [mscorlib]System.EventHandler ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_BackColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_BackColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_IconColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_IconColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_ListBackColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_ListBackColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_ListTextColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_ListTextColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_BorderColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_BorderColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_BorderSize[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_BorderSize[1]( [mscorlib]System.Int32 ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_Texts[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_Texts[1]( [mscorlib]System.String ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_DropDownStyle[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_DropDownStyle[1]( [System.Windows.Forms]System.Windows.Forms.ComboBoxStyle ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_Items[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_DataSource[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_DataSource[1]( [mscorlib]System.Object ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_AutoCompleteCustomSource[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_AutoCompleteCustomSource[1]( [System.Windows.Forms]System.Windows.Forms.AutoCompleteStringCollection ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_AutoCompleteSource[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_AutoCompleteSource[1]( [System.Windows.Forms]System.Windows.Forms.AutoCompleteSource ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_AutoCompleteMode[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_AutoCompleteMode[1]( [System.Windows.Forms]System.Windows.Forms.AutoCompleteMode ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_SelectedItem[0]( ) -> ​
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_SelectedItem[1]( [mscorlib]System.Object ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_SelectedIndex[0]( ) -> ‐
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_SelectedIndex[1]( [mscorlib]System.Int32 ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_DisplayMember[0]( ) -> ‑
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_DisplayMember[1]( [mscorlib]System.String ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_ValueMember[0]( ) -> ‒
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_ValueMember[1]( [mscorlib]System.String ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::AdjustComboBoxDimensions[0]( ) -> –
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::ComboBox_SelectedIndexChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::Icon_Paint[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.PaintEventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::Icon_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::Surface_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::ComboBox_TextChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::Surface_MouseLeave[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::Surface_MouseEnter[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::RJComboBox_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::OnResize[1]( [mscorlib]System.EventArgs ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::.ctor[0]( ) skipped:  special name
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_ForeColor[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_ForeColor[1]( [System.Drawing]System.Drawing.Color ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::get_Font[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NComboBox::set_Font[1]( [System.Drawing]System.Drawing.Font ) skipped:  external base class or interface
+
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NComboBox::backColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NComboBox::iconColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NComboBox::listBackColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NComboBox::listTextColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NComboBox::borderColor ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NComboBox::borderSize ->  
+	System.Windows.Forms.ComboBox [NullFasttero.Nscript]System.Windows.Forms.ComboBox NullFasttero.Nscript.Normals.NComboBox::cmbList ->  
+	System.Windows.Forms.Label [NullFasttero.Nscript]System.Windows.Forms.Label NullFasttero.Nscript.Normals.NComboBox::lblText ->  
+	System.Windows.Forms.Button [NullFasttero.Nscript]System.Windows.Forms.Button NullFasttero.Nscript.Normals.NComboBox::btnIcon ->  
+	System.EventHandler [NullFasttero.Nscript]System.EventHandler NullFasttero.Nscript.Normals.NComboBox::OnSelectedIndexChanged ->  
+
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NComboBox::BackColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NComboBox::IconColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NComboBox::ListBackColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NComboBox::ListTextColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NComboBox::BorderColor ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NComboBox::BorderSize ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NComboBox::ForeColor ->  
+	System.Drawing.Font [NullFasttero.Nscript]System.Drawing.Font NullFasttero.Nscript.Normals.NComboBox::Font ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Normals.NComboBox::Texts ->  
+	System.Windows.Forms.ComboBoxStyle [NullFasttero.Nscript]System.Windows.Forms.ComboBoxStyle NullFasttero.Nscript.Normals.NComboBox::DropDownStyle ->  
+	System.Windows.Forms.ComboBox/ObjectCollection [NullFasttero.Nscript]System.Windows.Forms.ComboBox/ObjectCollection NullFasttero.Nscript.Normals.NComboBox::Items ->  
+	System.Object [NullFasttero.Nscript]System.Object NullFasttero.Nscript.Normals.NComboBox::DataSource ->  
+	System.Windows.Forms.AutoCompleteStringCollection [NullFasttero.Nscript]System.Windows.Forms.AutoCompleteStringCollection NullFasttero.Nscript.Normals.NComboBox::AutoCompleteCustomSource ->  
+	System.Windows.Forms.AutoCompleteSource [NullFasttero.Nscript]System.Windows.Forms.AutoCompleteSource NullFasttero.Nscript.Normals.NComboBox::AutoCompleteSource -> ​
+	System.Windows.Forms.AutoCompleteMode [NullFasttero.Nscript]System.Windows.Forms.AutoCompleteMode NullFasttero.Nscript.Normals.NComboBox::AutoCompleteMode -> ‐
+	System.Object [NullFasttero.Nscript]System.Object NullFasttero.Nscript.Normals.NComboBox::SelectedItem -> ‑
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NComboBox::SelectedIndex -> ‒
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Normals.NComboBox::DisplayMember -> –
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Normals.NComboBox::ValueMember -> —
+
+	System.EventHandler [NullFasttero.Nscript]System.EventHandler NullFasttero.Nscript.Normals.NComboBox::OnSelectedIndexChanged -> dropped
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NDropdownMenu -> [NullFasttero.Nscript] . 
+{
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NDropdownMenu::get_IsMainMenu[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NDropdownMenu::set_IsMainMenu[1]( [mscorlib]System.Boolean ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NDropdownMenu::get_MenuItemHeight[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NDropdownMenu::set_MenuItemHeight[1]( [mscorlib]System.Int32 ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NDropdownMenu::get_MenuItemTextColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NDropdownMenu::set_MenuItemTextColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NDropdownMenu::get_PrimaryColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NDropdownMenu::set_PrimaryColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NDropdownMenu::LoadMenuItemHeight[0]( ) ->  
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NDropdownMenu::OnHandleCreated[1]( [mscorlib]System.EventArgs ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NDropdownMenu::.ctor[1]( [System]System.ComponentModel.IContainer ) skipped:  special name
+
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NDropdownMenu::isMainMenu ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NDropdownMenu::menuItemHeight ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NDropdownMenu::menuItemTextColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NDropdownMenu::primaryColor ->  
+	System.Drawing.Bitmap [NullFasttero.Nscript]System.Drawing.Bitmap NullFasttero.Nscript.Normals.NDropdownMenu::menuItemHeaderSize ->  
+
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NDropdownMenu::IsMainMenu ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NDropdownMenu::MenuItemHeight ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NDropdownMenu::MenuItemTextColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NDropdownMenu::PrimaryColor ->  
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Normals.TextPosition -> [NullFasttero.Nscript] . 
+{
+	NullFasttero.Nscript.Normals.TextPosition [NullFasttero.Nscript]NullFasttero.Nscript.Normals.TextPosition NullFasttero.Nscript.Normals.TextPosition::Left ->  
+	NullFasttero.Nscript.Normals.TextPosition [NullFasttero.Nscript]NullFasttero.Nscript.Normals.TextPosition NullFasttero.Nscript.Normals.TextPosition::Right ->  
+	NullFasttero.Nscript.Normals.TextPosition [NullFasttero.Nscript]NullFasttero.Nscript.Normals.TextPosition NullFasttero.Nscript.Normals.TextPosition::Center ->  
+	NullFasttero.Nscript.Normals.TextPosition [NullFasttero.Nscript]NullFasttero.Nscript.Normals.TextPosition NullFasttero.Nscript.Normals.TextPosition::Sliding ->  
+	NullFasttero.Nscript.Normals.TextPosition [NullFasttero.Nscript]NullFasttero.Nscript.Normals.TextPosition NullFasttero.Nscript.Normals.TextPosition::None ->  
+
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.TextPosition::value__ skipped:  special name
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar -> [NullFasttero.Nscript] . 
+{
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::get_ChannelColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::set_ChannelColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::get_SliderColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::set_SliderColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::get_ForeBackColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::set_ForeBackColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::get_ChannelHeight[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::set_ChannelHeight[1]( [mscorlib]System.Int32 ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::get_SliderHeight[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::set_SliderHeight[1]( [mscorlib]System.Int32 ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::get_ShowValue[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::set_ShowValue[1]( [NullFasttero.Nscript]NullFasttero.Nscript.Normals.TextPosition ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::get_SymbolBefore[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::set_SymbolBefore[1]( [mscorlib]System.String ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::get_SymbolAfter[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::set_SymbolAfter[1]( [mscorlib]System.String ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::get_ShowMaximun[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::set_ShowMaximun[1]( [mscorlib]System.Boolean ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::DrawValueText[3]( [System.Drawing]System.Drawing.Graphics, [mscorlib]System.Int32, [System.Drawing]System.Drawing.Rectangle ) ->  
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::OnPaint[1]( [System.Windows.Forms]System.Windows.Forms.PaintEventArgs ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::get_ForeColor[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::set_ForeColor[1]( [System.Drawing]System.Drawing.Color ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::get_Font[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::set_Font[1]( [System.Drawing]System.Drawing.Font ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::.ctor[0]( ) skipped:  special name
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NProgressBar::OnPaintBackground[1]( [System.Windows.Forms]System.Windows.Forms.PaintEventArgs ) skipped:  external base class or interface
+
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NProgressBar::channelColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NProgressBar::sliderColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NProgressBar::foreBackColor ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NProgressBar::channelHeight ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NProgressBar::sliderHeight ->  
+	NullFasttero.Nscript.Normals.TextPosition [NullFasttero.Nscript]NullFasttero.Nscript.Normals.TextPosition NullFasttero.Nscript.Normals.NProgressBar::showValue ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Normals.NProgressBar::symbolBefore ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Normals.NProgressBar::symbolAfter ->  
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NProgressBar::showMaximun ->  
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NProgressBar::paintedBack ->  
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NProgressBar::stopPainting ->  
+
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NProgressBar::ChannelColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NProgressBar::SliderColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NProgressBar::ForeBackColor ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NProgressBar::ChannelHeight ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NProgressBar::SliderHeight ->  
+	NullFasttero.Nscript.Normals.TextPosition [NullFasttero.Nscript]NullFasttero.Nscript.Normals.TextPosition NullFasttero.Nscript.Normals.NProgressBar::ShowValue ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Normals.NProgressBar::SymbolBefore ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Normals.NProgressBar::SymbolAfter ->  
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NProgressBar::ShowMaximun ->  
+	System.Drawing.Font [NullFasttero.Nscript]System.Drawing.Font NullFasttero.Nscript.Normals.NProgressBar::Font ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NProgressBar::ForeColor ->  
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NRadioButton -> [NullFasttero.Nscript] . 
+{
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NRadioButton::get_CheckedColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NRadioButton::set_CheckedColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NRadioButton::get_UnCheckedColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NRadioButton::set_UnCheckedColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NRadioButton::OnPaint[1]( [System.Windows.Forms]System.Windows.Forms.PaintEventArgs ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NRadioButton::.ctor[0]( ) skipped:  special name
+
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NRadioButton::checkedColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NRadioButton::unCheckedColor ->  
+
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NRadioButton::CheckedColor -> dropped
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NRadioButton::UnCheckedColor -> dropped
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox -> [NullFasttero.Nscript] . 
+{
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::add__TextChanged[1]( [mscorlib]System.EventHandler ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::remove__TextChanged[1]( [mscorlib]System.EventHandler ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::get_BorderColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::set_BorderColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::get_BorderFocusColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::set_BorderFocusColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::get_BorderSize[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::set_BorderSize[1]( [mscorlib]System.Int32 ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::get_UnderlinedStyle[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::set_UnderlinedStyle[1]( [mscorlib]System.Boolean ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::get_PasswordChar[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::set_PasswordChar[1]( [mscorlib]System.Boolean ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::get_Multiline[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::set_Multiline[1]( [mscorlib]System.Boolean ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::get_Texts[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::set_Texts[1]( [mscorlib]System.String ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::get_BorderRadius[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::set_BorderRadius[1]( [mscorlib]System.Int32 ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::get_PlaceholderColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::set_PlaceholderColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::get_PlaceholderText[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::set_PlaceholderText[1]( [mscorlib]System.String ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::SetPlaceholder[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::RemovePlaceholder[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::GetFigurePath[2]( [System.Drawing]System.Drawing.Rectangle, [mscorlib]System.Int32 ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::SetTextBoxRoundedRegion[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::UpdateControlHeight[0]( ) -> ​
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::textBox1_TextChanged[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::textBox1_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::textBox1_MouseEnter[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::textBox1_MouseLeave[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::textBox1_KeyPress[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.KeyPressEventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::textBox1_Enter[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::textBox1_Leave[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::InitializeComponent[0]( ) -> ‐
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::OnPaint[1]( [System.Windows.Forms]System.Windows.Forms.PaintEventArgs ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::OnResize[1]( [mscorlib]System.EventArgs ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::get_ForeColor[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::set_ForeColor[1]( [System.Drawing]System.Drawing.Color ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::get_Font[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::set_Font[1]( [System.Drawing]System.Drawing.Font ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::.ctor[0]( ) skipped:  special name
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::get_BackColor[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::set_BackColor[1]( [System.Drawing]System.Drawing.Color ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::OnLoad[1]( [mscorlib]System.EventArgs ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NTextBox::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NTextBox::borderColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NTextBox::borderFocusColor ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NTextBox::borderSize ->  
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NTextBox::underlinedStyle ->  
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NTextBox::isFocused ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NTextBox::borderRadius ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NTextBox::placeholderColor ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Normals.NTextBox::placeholderText ->  
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NTextBox::isPlaceholder ->  
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NTextBox::isPasswordChar ->  
+	System.EventHandler [NullFasttero.Nscript]System.EventHandler NullFasttero.Nscript.Normals.NTextBox::_TextChanged ->  
+	System.ComponentModel.IContainer [NullFasttero.Nscript]System.ComponentModel.IContainer NullFasttero.Nscript.Normals.NTextBox::components ->  
+	System.Windows.Forms.TextBox [NullFasttero.Nscript]System.Windows.Forms.TextBox NullFasttero.Nscript.Normals.NTextBox::textBox1 ->  
+
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NTextBox::BorderColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NTextBox::BorderFocusColor ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NTextBox::BorderSize ->  
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NTextBox::UnderlinedStyle ->  
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NTextBox::PasswordChar ->  
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NTextBox::Multiline ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NTextBox::BackColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NTextBox::ForeColor ->  
+	System.Drawing.Font [NullFasttero.Nscript]System.Drawing.Font NullFasttero.Nscript.Normals.NTextBox::Font ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Normals.NTextBox::Texts ->  
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Normals.NTextBox::BorderRadius ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NTextBox::PlaceholderColor ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Normals.NTextBox::PlaceholderText ->  
+
+	System.EventHandler [NullFasttero.Nscript]System.EventHandler NullFasttero.Nscript.Normals.NTextBox::_TextChanged -> dropped
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton -> [NullFasttero.Nscript] . 
+{
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::get_OnBackColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::set_OnBackColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::get_OnToggleColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::set_OnToggleColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::get_OffBackColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::set_OffBackColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::get_OffToggleColor[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::set_OffToggleColor[1]( [System.Drawing]System.Drawing.Color ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::get_SolidStyle[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::set_SolidStyle[1]( [mscorlib]System.Boolean ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::GetFigurePath[0]( ) ->  
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::OnPaint[1]( [System.Windows.Forms]System.Windows.Forms.PaintEventArgs ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::get_Text[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::set_Text[1]( [mscorlib]System.String ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Normals.NToggleButton::.ctor[0]( ) skipped:  special name
+
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NToggleButton::onBackColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NToggleButton::onToggleColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NToggleButton::offBackColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NToggleButton::offToggleColor ->  
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NToggleButton::solidStyle ->  
+
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NToggleButton::OnBackColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NToggleButton::OnToggleColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NToggleButton::OffBackColor ->  
+	System.Drawing.Color [NullFasttero.Nscript]System.Drawing.Color NullFasttero.Nscript.Normals.NToggleButton::OffToggleColor ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Normals.NToggleButton::Text ->  
+	System.Boolean [NullFasttero.Nscript]System.Boolean NullFasttero.Nscript.Normals.NToggleButton::SolidStyle ->  
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Main/<CreditosMaker>d__8 -> [NullFasttero.Nscript] . / 
+{
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main/<CreditosMaker>d__8::MoveNext[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main/<CreditosMaker>d__8::SetStateMachine[1]( [mscorlib]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Main/<CreditosMaker>d__8::<>1__state ->  
+	System.Runtime.CompilerServices.AsyncVoidMethodBuilder [NullFasttero.Nscript]System.Runtime.CompilerServices.AsyncVoidMethodBuilder NullFasttero.Nscript.Main/<CreditosMaker>d__8::<>t__builder ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Main/<CreditosMaker>d__8::link ->  
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Main/<Descargar>d__5 -> [NullFasttero.Nscript] . / 
+{
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main/<Descargar>d__5::MoveNext[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main/<Descargar>d__5::SetStateMachine[1]( [mscorlib]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Main/<Descargar>d__5::<>1__state ->  
+	System.Runtime.CompilerServices.AsyncVoidMethodBuilder [NullFasttero.Nscript]System.Runtime.CompilerServices.AsyncVoidMethodBuilder NullFasttero.Nscript.Main/<Descargar>d__5::<>t__builder ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Main/<Descargar>d__5::link ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Main/<Descargar>d__5::lugar ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Main/<Descargar>d__5::nombre ->  
+	System.Runtime.CompilerServices.TaskAwaiter [NullFasttero.Nscript]System.Runtime.CompilerServices.TaskAwaiter NullFasttero.Nscript.Main/<Descargar>d__5::<>u__1 ->  
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Main/<FakeHacked>d__7 -> [NullFasttero.Nscript] . / 
+{
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main/<FakeHacked>d__7::MoveNext[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main/<FakeHacked>d__7::SetStateMachine[1]( [mscorlib]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Main/<FakeHacked>d__7::<>1__state ->  
+	System.Runtime.CompilerServices.AsyncVoidMethodBuilder [NullFasttero.Nscript]System.Runtime.CompilerServices.AsyncVoidMethodBuilder NullFasttero.Nscript.Main/<FakeHacked>d__7::<>t__builder ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Main/<FakeHacked>d__7::nombredelhacker ->  
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Main/<FakeHackercmd>d__6 -> [NullFasttero.Nscript] . / 
+{
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main/<FakeHackercmd>d__6::MoveNext[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main/<FakeHackercmd>d__6::SetStateMachine[1]( [mscorlib]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Main/<FakeHackercmd>d__6::<>1__state ->  
+	System.Runtime.CompilerServices.AsyncVoidMethodBuilder [NullFasttero.Nscript]System.Runtime.CompilerServices.AsyncVoidMethodBuilder NullFasttero.Nscript.Main/<FakeHackercmd>d__6::<>t__builder ->  
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Main/<ProxyDescarga>d__2 -> [NullFasttero.Nscript] . / 
+{
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main/<ProxyDescarga>d__2::MoveNext[0]( ) skipped:  external base class or interface
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main/<ProxyDescarga>d__2::SetStateMachine[1]( [mscorlib]System.Runtime.CompilerServices.IAsyncStateMachine ) skipped:  external base class or interface
+
+	System.Int32 [NullFasttero.Nscript]System.Int32 NullFasttero.Nscript.Main/<ProxyDescarga>d__2::<>1__state ->  
+	System.Runtime.CompilerServices.AsyncVoidMethodBuilder [NullFasttero.Nscript]System.Runtime.CompilerServices.AsyncVoidMethodBuilder NullFasttero.Nscript.Main/<ProxyDescarga>d__2::<>t__builder ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Main/<ProxyDescarga>d__2::tipo ->  
+	System.String [NullFasttero.Nscript]System.String NullFasttero.Nscript.Main/<ProxyDescarga>d__2::lugar ->  
+	System.Runtime.CompilerServices.TaskAwaiter [NullFasttero.Nscript]System.Runtime.CompilerServices.TaskAwaiter NullFasttero.Nscript.Main/<ProxyDescarga>d__2::<>u__1 ->  
+}
+
+[NullFasttero.Nscript]NullFasttero.Nscript.Main -> [NullFasttero.Nscript] . 
+{
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main::Ejecutar[1]( [mscorlib]System.String ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main::EjecutarComando[1]( [mscorlib]System.String ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main::ProxyDescarga[2]( [mscorlib]System.String, [mscorlib]System.String ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main::Escribir[1]( [mscorlib]System.String ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main::DiscordNitroGen[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main::Descargar[3]( [mscorlib]System.String, [mscorlib]System.String, [mscorlib]System.String ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main::FakeHackercmd[0]( ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main::FakeHacked[1]( [mscorlib]System.String ) ->  
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main::CreditosMaker[1]( [mscorlib]System.String ) ->  
+
+	[NullFasttero.Nscript]NullFasttero.Nscript.Main::.ctor[0]( ) skipped:  special name
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+
+Skipped Resources:
+
+NullFasttero.Controles.Normal.NTextBox.resources (no clear new name)

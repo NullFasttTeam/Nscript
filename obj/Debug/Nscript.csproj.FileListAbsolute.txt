@@ -1,0 +1,8 @@
+C:\Users\hugof\OneDrive\Escritorio\proyectos\Nscript\obj\Debug\Nscript.csproj.AssemblyReference.cache
+C:\Users\hugof\OneDrive\Escritorio\proyectos\Nscript\obj\Debug\Nscript.csproj.CoreCompileInputs.cache
+C:\Users\hugof\OneDrive\Escritorio\proyectos\Nscript\obj\Debug\Nscript.csproj.GenerateResource.cache
+C:\Users\hugof\OneDrive\Escritorio\proyectos\Nscript\bin\Debug\NullFasttero.Nscript.dll
+C:\Users\hugof\OneDrive\Escritorio\proyectos\Nscript\bin\Debug\NullFasttero.Nscript.pdb
+C:\Users\hugof\OneDrive\Escritorio\proyectos\Nscript\obj\Debug\NullFasttero.Controles.Normal.NTextBox.resources
+C:\Users\hugof\OneDrive\Escritorio\proyectos\Nscript\obj\Debug\NullFasttero.Nscript.dll
+C:\Users\hugof\OneDrive\Escritorio\proyectos\Nscript\obj\Debug\NullFasttero.Nscript.pdb
